@@ -1,68 +1,52 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Ticket Queue whit Socketio (Frontend)
+This repository is design and creation of the application in React. It is a ticket application, like the ones you find in pharmacies or hospitals. A person on a device pulls out his ticket and waits to be called by a screen that shows the ticket queue, his turn to wait and where to go to be attended. Socket.io is used for real-time communication with the server.
 
-## Available Scripts
+## Home Page
+![Captura de pantalla 2022-01-14 181052](https://user-images.githubusercontent.com/48660555/149585809-cce0f506-f514-41d2-a0f9-40201016e0f7.png)
 
-In the project directory, you can run:
+## Video
+https://user-images.githubusercontent.com/48660555/149585534-dd42a54c-c782-4d7c-9400-faaa7f25c140.mp4
 
-### `yarn start`
+## Repository Backend Deployed Heroku
+https://github.com/IvanFernandezGracia/react-ticket-queue-socketio-backend
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- Tech -->
+## Skills
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>      
+    </tr>
+        <td>
+        <ul>
+          <li>AntDesign</li>                     
+          <li>React Router</li>                     
+          <li>Custom Context</li>
+          <li>Hooks</li>                     
+          <li>Socket.io</li>                     
+          <li>dotenv library</li>   
+        </ul>
+      </td>    
+        <td>
+        <ul>
+          <li>Socket.io</li>                     
+          <li>dotenv library</li>              
+          <li>Fetch</li>                     
+          <li>Local Storage</li>                      
+        </ul>
+      </td>
+  </tbody>
+</table>
 
-### `yarn test`
+<!-- CONTACT -->
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718
+Fullstack & Mobile Developer
+Mechanical Engineering  
+Universidad de Santiago de Chile
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
