@@ -44,10 +44,9 @@ https://github.com/IvanFernandezGracia/react-ticket-queue-socketio-backend
 ## Contact
 Ivan Alejandro Fernandez Gracia  
 :email: ivan.fernandez.g@usach.cl  
-:telephone_receiver: +56-961214718
-
-Fullstack & Mobile Developer
+:telephone_receiver: +56-961214718 
+Fullstack & Mobile Developer 
 Mechanical Engineering  
-Universidad de Santiago de Chile
+Universidad de Santiago de Chile 
 
 
